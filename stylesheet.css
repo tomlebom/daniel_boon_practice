@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    font-family: Verdana;
+    background-color: yellow;
+    color: green;
+    }
+
+div {
+    background-color: grey;
+}
+
+p {
+    font-family: cursive;
+    color: violet;
+}
+
+span {
+    color: red;
+}
+
+h5 {
+    font-family: Impact;
+    background-color: #00ffff;
+    color: #333aaa;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: green;
+}
